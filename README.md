@@ -1,4 +1,4 @@
-# Erlang Language Platform (ELP)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./logo/elp_final_Full_Logo_White_Text.png">
@@ -7,21 +7,8 @@
 
 ## Description
 
-Designed at **WhatsApp** and inspired by the success of the
-[Rust Analyzer](https://rust-analyzer.github.io/) project, ELP provides **a
-scalable, fully incremental, IDE-first library for the semantic analysis of
-Erlang code**.
-
-ELP includes a fully fledged **LSP language server for the Erlang programming
-language**, providing advanced features such as go-to-definition, find
+Designed at **WhatsApp** and inspired by , providing advanced features such as go-to-definition, find
 references, call hierarchy and more for your IDE of choice.
-
-ELP is easily **extensible** and provides a convenient **API to implement
-linters and refactoring tools for Erlang**.
-
-ELP also includes **eqWAlizer**, a type-checker for Erlang. eqWAlizer brings
-static type-checking to Erlang code, helping you catch type errors before they
-reach production. See the [eqWAlizer README](./eqwalizer/README.md) for details.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./eqwalizer/logo/eqWAlizer_final_Full_Logo_White_Text.png">
